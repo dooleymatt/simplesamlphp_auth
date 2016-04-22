@@ -11,7 +11,4 @@
             "homepage": "https://www.adammalone.net"
         }
     ],
-    "require": {
-        "simplesamlphp/simplesamlphp": "1.13.2"
-    }
 }
