@@ -1,5 +1,5 @@
 {
-    "name": "drupal/simplesamlphp_auth",
+    "name": "dooleymatt/simplesamlphp_auth",
     "description": "Allows users to authenticate to a remote SAML identity provider (IdP) via a locally configured SimpleSAMLphp service point (SP).",
     "type": "drupal-module",
     "license": "GPL-2.0+",
